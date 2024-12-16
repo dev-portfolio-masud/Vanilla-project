@@ -1,0 +1,35 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+button{
+    border: none;
+    padding: 15px;
+    border-radius: 4px;
+    background-color: rgb(255, 123, 0);
+}
+.color-orange{
+    color: orange;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.header-area{
+    padding-top: 17pc;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header-area .vanilla{
+    color: white;
+    padding: 0;
+    margin: 0;
+    font-size: 5.4em;
+}
+.bg-first{
+    height: 700px;
+    background-image: url(img/1st-section.jpg);
+}
